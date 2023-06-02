@@ -180,3 +180,16 @@ Affected parameters are:
    logtoconsole = 
    logfile = F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-activity-wara.InstallLog
    assemblypath = F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-activity-wara.exe
+Installing assembly 'F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-Activity-wara.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-Activity-wara.InstallLog
+   assemblypath = F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-Activity-wara.exe
+Installing service MyServiceWara...
+Service MyServiceWara has been successfully installed.
+Creating EventLog source MyServiceWara in log Application...
+Committing assembly 'F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-Activity-wara.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-Activity-wara.InstallLog
+   assemblypath = F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-Activity-wara.exe
