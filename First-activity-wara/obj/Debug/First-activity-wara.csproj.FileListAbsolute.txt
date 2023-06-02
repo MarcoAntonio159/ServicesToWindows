@@ -1,0 +1,15 @@
+F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-activity-wara.exe.config
+F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-activity-wara.exe
+F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\First-activity-wara.pdb
+F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\System.Net.Http.Formatting.dll
+F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Wara\First-activity-wara\First-activity-wara\bin\Debug\System.Net.Http.Formatting.xml
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First-activity-wara.csproj.AssemblyReference.cache
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First-activity-wara.csproj.SuggestedBindingRedirects.cache
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First_activity_wara.Service1.resources
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First-activity-wara.csproj.GenerateResource.cache
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First-activity-wara.csproj.CoreCompileInputs.cache
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First-activity-wara.csproj.CopyComplete
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First-activity-wara.exe
+F:\Work\Wara\First-activity-wara\First-activity-wara\obj\Debug\First-activity-wara.pdb
